@@ -1,0 +1,15 @@
+html {
+    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+
+  .charactersCount {
+    font-size: 25px;
+  }
